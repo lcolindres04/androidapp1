@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "103043144939",
+    "project_id": "movilapp-cd0c6",
+    "storage_bucket": "movilapp-cd0c6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103043144939:android:0bc0ef9988ff35f1e832ae",
+        "android_client_info": {
+          "package_name": "plugins.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2IxlpEsssIw2rMl9bpC0dT_OcQo2ljbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
